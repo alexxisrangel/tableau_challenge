@@ -7,4 +7,54 @@ Since 2013, the Citi Bike program has implemented a robust infrastructure for co
 However, while the data has been regularly updated, the team has yet to implement a dashboard or sophisticated reporting process. City officials have questions about the program, so your first task on the job is to build a set of data reports to provide the answers
 
 
-## Analysis
+Instructions
+
+Your task in this assignment is to aggregate the data found in the Citi Bike Trip History Logs and find two unexpected phenomena.
+
+1. Design 2–5 visualizations for each discovered phenomenon (4–10 total). You may work with a timespan of your choosing. 
+   Optionally, you can also merge multiple datasets from different periods.
+
+2. Use your visualizations (not necessarily all of them) to design a dashboard for each phenomenon. The dashboards should be accompanied by an analysis explaining why the phenomenon may be occurring.
+
+3.Create one of the following visualizations for city officials:
+- Basic: A static map that plots all bike stations with a visual indication of the most popular locations to start and end a journey, with zip code data overlaid on top.
+
+- Advanced: A dynamic map that shows how each station's popularity changes over time (by month and year). Again, with zip code data overlaid on the map.
+
+- The map you choose should also be accompanied by a write-up describing any trends that were noticed during your analysis.
+
+4. Create your final presentation:
+
+- Create a Tableau story that brings together the visualizations, requested maps, and dashboards.
+
+- Ensure your presentation is professional, logical, and visually appealing.
+
+
+Data Source 
+
+1. Initially I started with 3 years worth of data in my analysis. I selected years 2018, 2019, and 2020. I decided on these years to see if what impact the COVID-19 pandemic had on bike usage. I retrieved my data from the Citi Bike (https://citibikenyc.com/system-data). webpage. Here they house data starting from 2013 to present day. After downloading the data, I housed it locally in a folder named 'Resources'
+
+2.  Once the data was downloaded the data I created a jupyter notebook titled "citibike.ipynb" where I began the data cleaning process. 
+
+3. 
+<img width="1411" alt="Screenshot 2023-09-21 at 12 19 33 PM" src="https://github.com/alexxisrangel/tableau_challenge/assets/129305054/b3e53d17-58fa-4396-a7e3-08f5dbfddbd6">
+
+<img width="1395" alt="Screenshot 2023-09-21 at 12 19 45 PM" src="https://github.com/alexxisrangel/tableau_challenge/assets/129305054/1772268b-bd24-4e7c-90ff-2d4f0bcae62f">
+
+<img width="1380" alt="Screenshot 2023-09-21 at 12 20 01 PM" src="https://github.com/alexxisrangel/tableau_challenge/assets/129305054/a9df4437-1cc8-46e9-be5e-6ea46c02c41b">
+
+<img width="1369" alt="Screenshot 2023-09-21 at 12 20 13 PM" src="https://github.com/alexxisrangel/tableau_challenge/assets/129305054/751fce77-c2d1-4e7b-9401-875c4fc14215">
+
+<img width="1308" alt="Screenshot 2023-09-21 at 12 21 41 PM" src="https://github.com/alexxisrangel/tableau_challenge/assets/129305054/60d97340-944f-4cd5-9353-79b916f821eb">
+
+
+
+
+Dashboard 
+
+<img width="1184" alt="Screenshot 2023-09-21 at 12 26 09 PM" src="https://github.com/alexxisrangel/tableau_challenge/assets/129305054/2d6c3f42-dc2e-4707-af09-f76a631d50b7">
+
+
+
+
+
