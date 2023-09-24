@@ -1,4 +1,7 @@
-# Background
+# Tableau link: https://public.tableau.com/app/profile/alexis.rangel/viz/citi_bike_16955336362720/PopularEndStation?publish=yes
+
+Background
+
 
 Congratulations on your new job! As the new lead analyst for the New York Citi. program, you are now responsible for overseeing the largest bike-sharing program in the United States. In your new role, you will be expected to generate regular reports for city officials looking to publicize and improve the city program.
 
@@ -28,6 +31,8 @@ Your task in this assignment is to aggregate the data found in the Citi Bike Tri
 - Create a Tableau story that brings together the visualizations, requested maps, and dashboards.
 
 - Ensure your presentation is professional, logical, and visually appealing.
+
+
 
 
 ### Data Source 
