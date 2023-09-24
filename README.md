@@ -68,6 +68,7 @@ Between the years 2018 and 2019 we had a total of 12,479,488 riders
 
 
 What days are the most popular? 
+
 ![Screenshot 2023-09-21 at 12 44 16 PM](https://github.com/alexxisrangel/tableau_challenge/assets/129305054/3e827996-ed0a-4d95-af5d-e223d028d74e)
 
 From the heatmap we can see that Tuesdays at 8am and 5pm are the days with more usage. This coincides with typical commute times. The periods with least usage would be the weekdays between the hours of 10am and 3pm. 
@@ -75,15 +76,16 @@ From the heatmap we can see that Tuesdays at 8am and 5pm are the days with more 
 
 Year over year comparison
 
+
 ![Screenshot 2023-09-21 at 12 47 22 PM](https://github.com/alexxisrangel/tableau_challenge/assets/129305054/213cbd71-8af7-440c-8e59-1af34e4cb747)
 
-If we compare 2018 with 2019 its clear that 2019 has over 4 million rides, despite the COVID-19 Pandemic 
+If we compare 2018 with 2019 its clear that 2019 has over 4 million rides, despite the COVID-19 Pandemic. Although there was a 46% spike in total rides, 2019 had trend of poeple wanting to be outdoors. So this spike can't soley being used for future growth. 
 
 
 User Distribution Comparison 
 ![Screenshot 2023-09-21 at 12 49 06 PM](https://github.com/alexxisrangel/tableau_challenge/assets/129305054/08fc89ad-fe01-4cae-891b-9ed2566a26cc)
 
-From this graph we can identify Males aged 33 as the top users (362,000) 
+From this graph we can identify Males aged 33 as the top users (362,000). This is 43% more than the highest female demgraphic. 
 
 
 Geographical Analysis 
@@ -95,6 +97,10 @@ This dashboard displays our stations on a map so we can easily identify the most
 
 Station 519 in area code 10178 is the most popular start and end destination. It makes sense since it's right next to 
 Grand Central Station which is a popular destination for locals and tourist. 
+
+##### Summary
+
+The new interactive dashboard makes it easy to visualize how many users we had each year and allows us to quickly see a breakdown of our rider demographic. Between the years 2018 and 2019 we had a total of 2,044,900 non subscriber riders and a total of 10,434,696 subscriber riders. If we break it down to gender, we have 3,072,833 female and 8,204,884 male riders. For the most popular days we have Mondays and Tuesdays between the hours of 5-6pm. When it comes down to our most popular station we have station 519 in 10178 zipcode. If resources allowed for it, this dashboard could easily include daily, monthly and yearly metrics. 
 
 
 
