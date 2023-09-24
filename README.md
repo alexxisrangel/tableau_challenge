@@ -52,7 +52,47 @@ Data Source
 
 Dashboard 
 
+In this dashboard we get an overview of our users. We can identify what demographic makes the vast majority of our consumer. 
 <img width="1184" alt="Screenshot 2023-09-21 at 12 26 09 PM" src="https://github.com/alexxisrangel/tableau_challenge/assets/129305054/2d6c3f42-dc2e-4707-af09-f76a631d50b7">
+
+User Analysis
+
+![Screenshot 2023-09-21 at 12 39 14 PM](https://github.com/alexxisrangel/tableau_challenge/assets/129305054/b3fa1628-f8db-49f7-9212-15da44fe17e7)
+
+Subscribers made up the vast majority of our users for the years 2018 and 2019. There were a total of 2,044,900 non-subscribers and 10,434,696 subscribers. 
+
+If we breakdown users by gender we have Males at a majority with 8,204,884 and female users at 3,072,833
+
+Between the years 2018 and 2019 we had a total of 12,479,488 riders 
+
+
+What days are the most popular? 
+![Screenshot 2023-09-21 at 12 44 16 PM](https://github.com/alexxisrangel/tableau_challenge/assets/129305054/3e827996-ed0a-4d95-af5d-e223d028d74e)
+
+From the heatmap we can see that Tuesdays at 8am and 5pm are the days with more usage. This coincides with typical commute times. The periods with least usage would be the weekdays between the hours of 10am and 3pm. 
+
+
+Year over year comparison 
+![Screenshot 2023-09-21 at 12 47 22 PM](https://github.com/alexxisrangel/tableau_challenge/assets/129305054/213cbd71-8af7-440c-8e59-1af34e4cb747)
+
+If we compare 2018 with 2019 its clear that 2019 has over 4 million rides, despite the COVID-19 Pandemic 
+
+
+User Distribution Comparison 
+![Screenshot 2023-09-21 at 12 49 06 PM](https://github.com/alexxisrangel/tableau_challenge/assets/129305054/08fc89ad-fe01-4cae-891b-9ed2566a26cc)
+
+From this graph we can identify Males aged 33 as the top users (362,000) 
+
+
+Geographical Analysis 
+
+![Screenshot 2023-09-21 at 12 55 35 PM](https://github.com/alexxisrangel/tableau_challenge/assets/129305054/3f2c2168-c5ca-4dca-b7e4-51d64e22e378)
+
+This dashboard displays our stations on a map so we can easily identify the most popular zipcodes 
+![Screenshot 2023-09-21 at 1 03 39 PM](https://github.com/alexxisrangel/tableau_challenge/assets/129305054/3d6d95ae-c989-463e-8c14-adf0c35cf7d6)
+
+Station 519 in area code 10178 is the most popular start and end destination. It makes sense since it's right next to 
+Grand Central Station which is a popular destination for locals and tourist. 
 
 
 
