@@ -34,9 +34,10 @@ Your task in this assignment is to aggregate the data found in the Citi Bike Tri
 
 1. Initially I started with 3 years worth of data in my analysis. I selected years 2018, 2019, and 2020. I decided on these years to see if what impact the COVID-19 pandemic had on bike usage. I retrieved my data from the Citi Bike (https://citibikenyc.com/system-data). webpage. Here they house data starting from 2013 to present day. After downloading the data, I housed it locally in a folder named 'Resources'
 
-2.  Once the data was downloaded the data I created a jupyter notebook titled "citibike.ipynb" where I began the data cleaning process. 
+2.  Once the data was downloaded the data I created a jupyter notebook titled "citibike.ipynb" where I began the data cleaning process. During the cleaning process I encountered machine constraints which led to me only being able to using 2 months. One from 2018 and one from 2019 instead of the whole year for 2018, 2019 and 2020. 
 
-3. 
+3. Code
+4. 
 <img width="1411" alt="Screenshot 2023-09-21 at 12 19 33 PM" src="https://github.com/alexxisrangel/tableau_challenge/assets/129305054/b3e53d17-58fa-4396-a7e3-08f5dbfddbd6">
 
 <img width="1395" alt="Screenshot 2023-09-21 at 12 19 45 PM" src="https://github.com/alexxisrangel/tableau_challenge/assets/129305054/1772268b-bd24-4e7c-90ff-2d4f0bcae62f">
@@ -94,6 +95,8 @@ This dashboard displays our stations on a map so we can easily identify the most
 
 Station 519 in area code 10178 is the most popular start and end destination. It makes sense since it's right next to 
 Grand Central Station which is a popular destination for locals and tourist. 
+
+
 
 
 
