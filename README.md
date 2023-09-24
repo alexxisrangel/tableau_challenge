@@ -7,7 +7,7 @@ Since 2013, the Citi Bike program has implemented a robust infrastructure for co
 However, while the data has been regularly updated, the team has yet to implement a dashboard or sophisticated reporting process. City officials have questions about the program, so your first task on the job is to build a set of data reports to provide the answers
 
 
-Instructions
+## Instructions
 
 Your task in this assignment is to aggregate the data found in the Citi Bike Trip History Logs and find two unexpected phenomena.
 
@@ -30,7 +30,7 @@ Your task in this assignment is to aggregate the data found in the Citi Bike Tri
 - Ensure your presentation is professional, logical, and visually appealing.
 
 
-Data Source 
+### Data Source 
 
 1. Initially I started with 3 years worth of data in my analysis. I selected years 2018, 2019, and 2020. I decided on these years to see if what impact the COVID-19 pandemic had on bike usage. I retrieved my data from the Citi Bike (https://citibikenyc.com/system-data). webpage. Here they house data starting from 2013 to present day. After downloading the data, I housed it locally in a folder named 'Resources'
 
@@ -50,7 +50,7 @@ Data Source
 
 
 
-Dashboard 
+#### Dashboard 
 
 In this dashboard we get an overview of our users. We can identify what demographic makes the vast majority of our consumer. 
 <img width="1184" alt="Screenshot 2023-09-21 at 12 26 09 PM" src="https://github.com/alexxisrangel/tableau_challenge/assets/129305054/2d6c3f42-dc2e-4707-af09-f76a631d50b7">
@@ -72,7 +72,8 @@ What days are the most popular?
 From the heatmap we can see that Tuesdays at 8am and 5pm are the days with more usage. This coincides with typical commute times. The periods with least usage would be the weekdays between the hours of 10am and 3pm. 
 
 
-Year over year comparison 
+Year over year comparison
+
 ![Screenshot 2023-09-21 at 12 47 22 PM](https://github.com/alexxisrangel/tableau_challenge/assets/129305054/213cbd71-8af7-440c-8e59-1af34e4cb747)
 
 If we compare 2018 with 2019 its clear that 2019 has over 4 million rides, despite the COVID-19 Pandemic 
