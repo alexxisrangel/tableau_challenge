@@ -1,8 +1,7 @@
-# Tableau link: [https://public.tableau.com/app/profile/alexis.rangel/viz/citi_bike_16955336362720/PopularEndStation?publish=yes
-https://public.tableau.com/app/profile/alexis.rangel/viz/citi_bike_16955336362720/Dashboard1?publish=yes
-
+# Tableau link: https://public.tableau.com/app/profile/alexis.rangel/viz/citi_bike_16955336362720/Dashboard1?publish=yes
 https://public.tableau.com/app/profile/alexis.rangel/viz/citi_bike_16955336362720/Dashboard2?publish=yes
-Background
+
+# Background
 
 
 Congratulations on your new job! As the new lead analyst for the New York Citi. program, you are now responsible for overseeing the largest bike-sharing program in the United States. In your new role, you will be expected to generate regular reports for city officials looking to publicize and improve the city program.
