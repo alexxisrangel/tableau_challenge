@@ -1,5 +1,5 @@
 # Tableau link: [https://public.tableau.com/app/profile/alexis.rangel/viz/citi_bike_16955336362720/PopularEndStation?publish=yes
-](https://public.tableau.com/app/profile/alexis.rangel/viz/citi_bike_16955336362720/Dashboard1?publish=yes)
+https://public.tableau.com/app/profile/alexis.rangel/viz/citi_bike_16955336362720/Dashboard1?publish=yes
 
 https://public.tableau.com/app/profile/alexis.rangel/viz/citi_bike_16955336362720/Dashboard2?publish=yes
 Background
